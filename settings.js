@@ -13,7 +13,7 @@ global.APIKeys = {
 
 
 global.OWNER_REACT = '🧑🏻‍💻'
-global.REACT_NUMBER = '94714188730'
+global.REACT_NUMBER = '+923482662710'
 
 //aumto functioner
 global.autoTyping = false //auto tying in gc (true to on, false to off)
@@ -34,8 +34,8 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['94714188730'] //ur owner number
-global.ownername = "NIPUNA " //ur owner name
+global.vcardowner = ['+923482662710'] //ur owner number
+global.ownername = "𝐀⃝𝐌𝐚𑜞𝐍⃝  𝐒𝐢⃢𝐲𝐀𝐥 " //ur owner name
 global.ytname = "YT: Nipuna-apps" //ur yt chanel name
 global.socialm = "GitHub: Nipuna-apps" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
